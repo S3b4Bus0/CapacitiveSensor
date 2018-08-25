@@ -1,4 +1,3 @@
-probando
 #CapacitiveSensor Library#
 
 CapacitiveSensor lets you create sensors that can detect touch or proximity. 
