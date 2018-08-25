@@ -1,3 +1,4 @@
+probando
 #CapacitiveSensor Library#
 
 CapacitiveSensor lets you create sensors that can detect touch or proximity. 
@@ -14,10 +15,3 @@ CapacitiveSensor was originally written by Paul Badger and is now maintained by 
 
 
 
-123
-123
-12
-312
-31
-23
-123jhsd ghj sdgfhj sakjdfgsajdjasdg
